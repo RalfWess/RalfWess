@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RalfWessel. I'm an physicist and already retired.
 - 👀 I was  interested in software engineering for molecular biology.
-- 🌱 I have publish several scientific papers which you can find here.
+- 🌱 I have published several scientific papers which you can find here.
 - 💞️ You can reach me under following E-Mail : wess1942@t-online.de
 
 <!---
